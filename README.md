@@ -1,5 +1,9 @@
 # Andrei Rykov 
 
+Curriculum Vitae (CV) available:
+[English pdf](https://github.com/glendawur/glendawur/blob/main/Rykov_CV.pdf) or [Russian pdf](https://github.com/glendawur/glendawur/blob/main/Rykov_CV_ru.pdf)
+
+
 ## Education
 
 - 2021 - 2023: **MSc, Data Science and Artificial Intelligence**: Eindhoven University of Technology (**TU/e**)
@@ -22,3 +26,5 @@
   - Investigation of internal manifold transformations throughout the optimization process and the depth of the model
   - Control of data transformations
 - **Topological Data Analysis**
+
+
