@@ -1,7 +1,7 @@
 # Andrei Rykov 
 
 Curriculum Vitae (CV) available:
-English pdf [v1](https://github.com/glendawur/glendawur/blob/main/Rykov_CV.pdf), [v2](https://github.com/glendawur/glendawur/blob/main/Rykov_CV_LaTeX.pdf) or [Russian pdf](https://github.com/glendawur/glendawur/blob/main/Rykov_CV_ru.pdf)
+English pdf [Canva](https://github.com/glendawur/glendawur/blob/main/Rykov_CV.pdf), [LaTeX](https://github.com/glendawur/glendawur/blob/main/Rykov_CV_LaTeX.pdf) or [Canva Russian](https://github.com/glendawur/glendawur/blob/main/Rykov_CV_ru.pdf)
 
 
 ## Education
