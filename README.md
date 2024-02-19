@@ -16,6 +16,11 @@ Curriculum Vitae (CV) available:
   - Track: Data Analysis in Business
   - GPA: 9/10
  
+## Publications
+
+- Rykov, A., De Amorim, R. C., Makarenkov, V., & Mirkin, B. (2024). Inertia-based indices to determine the number of clusters in K-means: an experimental evaluation. IEEE Access [link](https://ieeexplore.ieee.org/abstract/document/10382499)
+- Rykov, A., Hess, S. (2023). Robust Deep Spectral Clustering. BNAIC BeNeLearn 2023, Type D: Student Thesis Abstracts [link](https://bnaic2023.tudelft.nl/static/media/BNAICBENELEARN_2023_paper_63.01ad1b5e38f534abdaf3.pdf)
+ 
 ## Research interests
 
 - **Cluster analysis**
