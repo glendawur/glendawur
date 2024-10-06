@@ -5,6 +5,9 @@ Curriculum Vitae (CV) available in [English](https://github.com/glendawur/glenda
 
 ## Education
 
+- 2024 - now: **PhD, Artificial Intelligence and Machine Learning**: ITMO University
+  - Research topics: Representation Learning, Clustering 
+
 - 2021 - 2023: **MSc, Data Science and Artificial Intelligence**: Eindhoven University of Technology (**TU/e**)
   - Graduation Thesis: Robust Deep Spectral Clustering (Supervisor: dr. Sibylle Hess, Grade: 8/10)
   - Tracks: Data mining and Machine Learning, AI and Machine Learning
