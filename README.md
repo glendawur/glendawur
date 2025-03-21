@@ -1,4 +1,4 @@
-# [[Andrei Rykov]](glendawur.github.io) 
+# [[Andrei Rykov]](https://glendawur.github.io/)
 
 Curriculum Vitae (CV) available in [English](https://github.com/glendawur/glendawur/blob/main/Rykov_CV_en.pdf) and [Russian](https://github.com/glendawur/glendawur/blob/main/Rykov_CV_ru.pdf)
 
