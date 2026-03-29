@@ -1,11 +1,11 @@
 # [[Andrei Rykov]](https://glendawur.github.io/)
 
-Curriculum Vitae (CV) available in [English](https://github.com/glendawur/glendawur/blob/main/Rykov_CV_en.pdf) and [Russian](https://github.com/glendawur/glendawur/blob/main/Rykov_CV_ru.pdf)
+Curriculum Vitae (CV) available in [English](https://github.com/glendawur/glendawur/blob/main/Rykov_CV_en_V2.pdf) and [Russian](https://github.com/glendawur/glendawur/blob/main/Rykov_CV_ru.pdf)
 
 
 ## Education
 
-- 2024 - now: **PhD, Artificial Intelligence and Machine Learning**: ITMO University
+- 2024 - 2026: **PhD, Artificial Intelligence and Machine Learning**: ITMO University
   - Research topics: Representation Learning, Clustering 
 
 - 2021 - 2023: **MSc, Data Science and Artificial Intelligence**: Eindhoven University of Technology (**TU/e**)
