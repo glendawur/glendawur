@@ -1,12 +1,18 @@
 # [[Andrei Rykov]](https://glendawur.github.io/)
 
-Curriculum Vitae (CV) available in [English](https://github.com/glendawur/glendawur/blob/main/Rykov_CV_en_V2.pdf) and [Russian](https://github.com/glendawur/glendawur/blob/main/Rykov_CV_ru.pdf)
+Curriculum Vitae (CV) available in [English](https://github.com/glendawur/glendawur/blob/main/Rykov_CV_en.pdf) and [Russian](https://github.com/glendawur/glendawur/blob/main/Rykov_CV_ru.pdf)
 
+## Expericence
+
+- 2025 - : Research Engineer at **Huawei Technologies Co. Ltd**
+  - Reinforcement Learning of LLM models for agentic tasks
+- 2023 - 2025: Engineer at **BAUM** (Razum AI)
+  - Development of ML modules on Python & PySpark for Applied ML platform Razum AI   
 
 ## Education
 
 - 2024 - 2026: **PhD, Artificial Intelligence and Machine Learning**: ITMO University
-  - Research topics: Representation Learning, Clustering 
+  - Research topics: Representation Learning, Clustering, Self-Supervised Learning
 
 - 2021 - 2023: **MSc, Data Science and Artificial Intelligence**: Eindhoven University of Technology (**TU/e**)
   - Graduation Thesis: Robust Deep Spectral Clustering (Supervisor: dr. Sibylle Hess, Grade: 8/10)
@@ -22,16 +28,10 @@ Curriculum Vitae (CV) available in [English](https://github.com/glendawur/glenda
 
 - Rykov, A., De Amorim, R. C., Makarenkov, V., & Mirkin, B. (2024). Inertia-based indices to determine the number of clusters in K-means: an experimental evaluation. IEEE Access [link](https://ieeexplore.ieee.org/abstract/document/10382499)
 - Rykov, A., Hess, S. (2023). Robust Deep Spectral Clustering. BNAIC BeNeLearn 2023, Type D: Student Thesis Abstracts [link](https://bnaic2023.tudelft.nl/static/media/BNAICBENELEARN_2023_paper_63.01ad1b5e38f534abdaf3.pdf)
- 
-## Research interests
 
-- **Cluster analysis**
-  - Internal cluster validation 
-  - Optimal graph building for Deep Spectral Map
-  - Domain knowledge incorporation into similarity metric in learned embedding space
-- **Deep Learning**
-  - Investigation of internal manifold transformations throughout the optimization process and the depth of the model
-  - Control of data transformations
-- **Topological Data Analysis**
+## Research Interests
 
-
+- Search & information retrieval
+- Self-Supervised Learning & Representation Learning of embedding models
+- Clustering & Unsupervised learning techniques
+- xAI & Topological Data Analysis
